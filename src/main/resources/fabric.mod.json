@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "chaos_crazy_mod",
+  "id": "chaos_monk_mod",
   "version": "${version}",
 
   "name": "Chaos' Crazy Mod",
@@ -14,7 +14,7 @@
   },
 
   "license": "MIT",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/chaos_crazy_mod/icon.png",
 
   "environment": "*",
   "entrypoints": {
