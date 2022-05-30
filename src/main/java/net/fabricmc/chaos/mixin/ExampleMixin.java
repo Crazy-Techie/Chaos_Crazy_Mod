@@ -1,7 +1,7 @@
 package net.fabricmc.chaos.mixin;
 
 
-import net.fabricmc.chaos.ChaosCrazyMod;
+
 import net.fabricmc.chaos.ChaosMonkMod;
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
